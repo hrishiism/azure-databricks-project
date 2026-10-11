@@ -1,0 +1,15 @@
+{
+	"name": "adf-azureProject-hm",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a1717604-5c0a-40d0-b773-443c539d6c17",
+		"tenantId": "f16d3e70-1a82-414c-9a8c-d36474a6f5d8"
+	}
+}
