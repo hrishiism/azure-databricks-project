@@ -1,0 +1,12 @@
+{
+	"name": "azureDLS",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://hmazureproject.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDlEOERFQjExLUI1NEItNEMzNC1BOEMwLUZFM0I3NDgyN0ZBMF81NDNmMDY2Ny02OTI5LTRjYzYtYTFmMy1mZTI4YzY2YWVjNWEiDQp9"
+		}
+	}
+}
